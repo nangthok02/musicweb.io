@@ -59,10 +59,16 @@ let allMusic = [
     src: "music-8"
   },
 {
-  name: "NovemberRain",
+    name: "NovemberRain",
     artist: "Guns Rooses",
     img: "music-9",
     src: "music-9"
+},
+{
+    name: "Ojo Di Bandingke",
+    artist: "Farel_Prayoga_-_Ojo_Dibandingke",
+    img: "music-10",
+    src: "music-10"
 }
   // like this paste it and remember to give comma after ending of this bracket }
   // {
