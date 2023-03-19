@@ -69,7 +69,7 @@ let allMusic = [
     artist: "Farel_Prayoga_-_Ojo_Dibandingke",
     img: "music-10",
     src: "music-10"
-}
+},
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
